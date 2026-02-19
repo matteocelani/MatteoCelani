@@ -23,6 +23,6 @@
 <br/>
 
 <p align="center">
-  <img height="128em" src="https://github-readme-stats.vercel.app/api?username=matteocelani&count_private=true&theme=swift&rank_icon=github" alt="GitHub Readme Stats" />
-  <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteocelani&hide=swift,css,java,TeX,c%2B%2B&layout=compact&show_icons=true&theme=swift&count_private=true&langs_count=8" alt="GitHub Readme Stats" />
+  <img height="128em" src="https://github-stats-extended.vercel.app/api?username=matteocelani&count_private=true&theme=swift&rank_icon=github" alt="GitHub Readme Stats" />
+  <img height="128em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matteocelani&hide=swift,css,java,TeX,c%2B%2B&layout=compact&show_icons=true&theme=swift&count_private=true&langs_count=8" alt="GitHub Readme Stats" />
 </p>
