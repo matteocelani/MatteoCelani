@@ -6,7 +6,7 @@
 
 <br/>
 
-<p align="center">I'm Blockchain Dev 👨🏼‍💻</p>
+<p align="center">I'm Software Engineer 👨🏼‍💻</p>
 
 <br/>
 
